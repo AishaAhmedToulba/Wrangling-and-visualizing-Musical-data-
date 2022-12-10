@@ -4,11 +4,11 @@ Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 *  This project is a datacamp practice project that I have done while studying the data scientist with R track :)
 
 ## 📖 Table of Contents:
-* [Scenario](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data#-scenario-)
-* [Objectives](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data#-objectives-)
-* [Tools & Process](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data#-tools-)
-* [Outcomes](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data#-outcomes-) 
-* [Key take aways](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data#-keystakeaway-) 
+* [Scenario](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data-#-scenario-)
+* [Objectives](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data-#-objectives-)
+* [Tools & Process](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data-#-tools-)
+* [Outcomes](https://github.com/AishaAhmedToulba/Wrangling-and-visualizing-Musical-data-#-outcomes-) 
+
 
 ## 👀 Scenario
 
